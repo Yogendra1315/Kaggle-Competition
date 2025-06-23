@@ -1,6 +1,6 @@
-# Celebal_AnaVerse - Kaggle Competition
+# Kaggle Competition
 
-This repository contains my participation entry for the **Celebal_AnaVerse** Kaggle-style competition. Though I did not clear the round, the project gave me valuable hands-on experience with data preprocessing, exploratory data analysis (EDA), and building a basic predictive model pipeline.
+This repository contains my participation in Kaggle-style competition. The project gave me valuable hands-on experience with data preprocessing, exploratory data analysis (EDA), and building a basic predictive model pipeline.
 
 ## 📁 Files Included
 
