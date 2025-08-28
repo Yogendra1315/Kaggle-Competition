@@ -1,6 +1,6 @@
 # Kaggle Competition
 
-This repository contains my participation in Kaggle-style competition. The project gave me valuable hands-on experience with data preprocessing, exploratory data analysis (EDA), and building a basic predictive model pipeline.
+This repository contains my participation in Kaggle-style competition. The project gave me valuable hands-on experience with data preprocessing, exploratory data analysis (EDA), and building predictive model pipeline.
 
 ## 📁 Files Included
 
